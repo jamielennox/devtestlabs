@@ -1,0 +1,6 @@
+{
+  "itemDisplayName": "Service Fabric Tester",
+  "githubUsername": "jamielennox",
+  "description": "Spin up a windows service fabric cluster",
+  "summary": "Spins up a service fabric cluster for testing"
+}
